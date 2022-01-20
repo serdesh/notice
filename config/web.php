@@ -46,8 +46,8 @@ $config = [
         ],
         'dadata' => [
             'class' => '\gietos\yii\Dadata\Client',
-            'token' => 'c2ae0bae1eaeb49d2994e4bc31be54543b871251',
-            'secret' => '4a7e8448a6dc065bb54163b43c9b6e6786963b67',
+            'token' => '',
+            'secret' => '',
         ],
         'authManager' => [
             'class' => 'yii\rbac\PhpManager',
